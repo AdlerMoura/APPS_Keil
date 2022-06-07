@@ -8,7 +8,7 @@ AnalogOut saida(PA_4);
 // Declaração de Variáveis
 int cont = 0;                      // Variável para denotar o início ou fim da contagem de tempo
 unsigned long jikan = 0.0;         // Variável para guardar o número de milissegundos 
-float aux = 0.0;                       // Variável para guardar o torque
+float aux = 0.0;                   // Variável para guardar o torque
 int erro = 0;                      // Variável para denotar a existência de erro
 
 
